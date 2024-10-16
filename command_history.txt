@@ -1,2 +1,7 @@
+pablo daltónico
+pablo zanahorio
+cd trabajo_HLC
+git checkout -b olalla_lopez_v1
+nano command_history.txt
 git fork https://github.com/apaemau686/HLC_P1.git
 git checkout -b pablo_rodriguez_v1
