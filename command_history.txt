@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 pablo daltónico
+=======
+pablo zanahorio
+>>>>>>> 9f6d2cb9cb5bcae083a9f79e1d294b30146ff85e
 cd trabajo_HLC
 git checkout -b olalla_lopez_v1
 nano command_history.txt
